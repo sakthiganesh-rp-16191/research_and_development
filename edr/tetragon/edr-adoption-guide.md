@@ -166,7 +166,7 @@ selectors:
 exportFilters:
   redactionFilters:
     - match:
-        - regex: "--****** ]+"
+        - regex: "--password[= ][^ ]+"
           redact: "--******"
 ```
 

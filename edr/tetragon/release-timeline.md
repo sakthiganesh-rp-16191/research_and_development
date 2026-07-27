@@ -312,7 +312,6 @@ Foundation release establishing the core Tetragon architecture.
 | 🔧 | cgroupv1/v2 handling improvements | K8s Context |
 | 🔧 | Overhead metric fix for return probes | Operations |
 | 🗑️ | `--expose-kernel-addresses` flag removed | Export / Security |
-| 🗑️ | `--enable-process-ancestors` flag removed | Process & Lineage |
 | 🗑️ | `--pprof-addr` flag removed | Operations |
 
 ---

@@ -126,7 +126,7 @@ When using the LSM sensor (also introduced in v1.2.0), Tetragon can now record *
 
 ## 5. File-Type Selectors
 
-### `FileType` / `NotFileType` Selectors — **[NEW v1.7.0]**
+### `matchFileType` Selectors — **[NEW v1.7.0]**
 
 **Evidence:** [v1.7.0](https://github.com/cilium/tetragon/releases/tag/v1.7.0)
 

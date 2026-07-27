@@ -92,7 +92,7 @@ Field filters allow selective inclusion or exclusion of fields from exported eve
 **Evidence:** [#2243](https://github.com/cilium/tetragon/pull/2243)
 
 Redaction filters censor sensitive string data in process events before export. Use cases:
-- Redact passwords from command-line arguments (e.g., `--******
+- Redact passwords from command-line arguments (e.g., `--****** `)
 - Remove API keys or tokens from environment variables
 - Mask credentials from process argument strings
 

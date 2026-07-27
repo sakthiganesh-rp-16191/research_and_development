@@ -225,7 +225,7 @@ Key reliability backports affecting process telemetry:
 
 | Item | Deprecated | Removed | Migration |
 |------|-----------|---------|-----------|
-| `--enable-process-ancestors` | v1.3.0 | v1.3.0 | Use `--enable-ancestors` |
+| `--enable-process-ancestors` | v1.5.0 | v1.6.0 | Use `--enable-ancestors` |
 | `--enable-process-kprobe-ancestors` | v1.5.0 | v1.6.0 | Use `--enable-ancestors` |
 | `--enable-process-tracepoint-ancestors` | v1.5.0 | v1.6.0 | Use `--enable-ancestors` |
 | `--enable-process-uprobe-ancestors` | v1.5.0 | v1.6.0 | Use `--enable-ancestors` |
